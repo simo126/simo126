@@ -10,7 +10,7 @@ Hello, I'm Mohammed Sbaiti, a first-year software engineering student currently 
 ## Contact Me
 
 Feel free to reach out to me via:
-- [LinkedIn](https://www.linkedin.com/in/mohammed-sbaiti-9slime9999/)
+- [LinkedIn](https://www.linkedin.com/in/medsbt/)
 - [Instagram](https://www.instagram.com/medonlyon/) 
 
 For collaboration, discussions, or any inquiries.
